@@ -1,3 +1,3 @@
-#Sample
+#Demo
 
 Wala lang
